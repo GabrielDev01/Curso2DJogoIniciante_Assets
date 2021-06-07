@@ -1,0 +1,11 @@
+Free Platform Game Assets by bayat (https://bayat.itch.io/platform-game-assets)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/ (Modifiquei o sprite "Idle" do Player. Crie um Sprite úncio com as imagens do Chão. Modifiquei os nomes dos Sprites) *Eu não criei nenhum desses assets
+
+UI Pack Fixed - Kenney (https://www.kenney.nl/assets/ui-pack)
+
+Música de Fundo [ChipScape] - chasersgaming (https://opengameart.org/content/chipscape)
+
+Som da Moeda [Coin Pickup] - Phenala (https://freesound.org/people/Phenala/sounds/478647/)
+
+Som de Game Over [game over] - Leszek_Szary (https://freesound.org/people/Leszek_Szary/sounds/133283/)
